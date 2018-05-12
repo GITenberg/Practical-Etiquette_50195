@@ -1,10 +1,16 @@
 _repo: Practical-Etiquette_50195
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50195-h/images/cover.jpg
 creator:
   author:
     agent_name: Klein, Cora C. (N. C.)
     gutenberg_agent_id: '45745'
     url: http://www.gutenberg.org/2009/agents/45745
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50195#Practical-Etiquette
 gutenberg_issued: '2015-10-13'
 gutenberg_type: Text
 identifiers:
